@@ -1,6 +1,6 @@
 # 📍 Favourite_Location
 
-A Flutter application that integrates the Google Maps API, utilizes the device camera, and manages local storage using `sqflite`. This project demonstrates the use of various Flutter packages to create a feature-rich, responsive, and user-friendly mobile application.
+A Flutter application that integrates the Google Maps API, utilizes the device camera, and manages local storage using `sqflite`. This project helps in building a application which stores users favorite location with one photo as a memory. 
 
 ## 🚀 Features
 
