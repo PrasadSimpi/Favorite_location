@@ -1,16 +1,14 @@
-# favouritelocation
+# 📍 Favourite_Location
 
-A new Flutter project.
+A Flutter application that integrates the Google Maps API, utilizes the device camera, and manages local storage using `sqflite`. This project demonstrates the use of various Flutter packages to create a feature-rich, responsive, and user-friendly mobile application.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- **Google Maps Integration**: Display interactive maps, markers, and user location.
+- **Camera Functionality**: Capture photos using the device's camera.
+- **Local Storage**: Store and retrieve data locally using SQLite via the `sqflite` package.
+- **State Management**: Efficient state management using Riverpod.
+- **Image Handling**: Select and manage images using the `image_picker` package.
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 video link  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
